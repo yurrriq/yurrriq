@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=yurrriq&theme=monokai&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yurrriq&theme=monokai&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurrriq&show_icons=true&layout=compact&theme=monokai&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
